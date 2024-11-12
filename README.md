@@ -2,7 +2,7 @@
 RECOGNITION OF THE GRAMMAR(anb where n>=10) USING YACC
 # NAME: HARIPRASHAAD RA
 # REGISTERED NUMBER : 212223040060
-# Date: 
+# Date: 17-10-2024
 # Aim:
 To write a YACC program to recognize the grammar anb where n>=10.
 # ALGORITHM
